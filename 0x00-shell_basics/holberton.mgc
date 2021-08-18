@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "0 string HOLBERTON Holberton data" >> school.mgc
+echo "SCHOOL" >> school.mgc
